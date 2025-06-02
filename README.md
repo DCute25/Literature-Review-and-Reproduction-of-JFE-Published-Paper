@@ -22,5 +22,3 @@ This repository contains the code and data used for an empirical research projec
 This project replicates and extends findings from academic literature on inflation expectation extraction from TIPS. It showcases a complete pipeline from raw data processing to empirical validation.
 
 ---
-
-Let me know if you'd like to add a license, contributor section, or specific command-line instructions.
